@@ -1,2 +1,2 @@
 # Bank-Management-System
-Bank Management system - Implemented using linked list data structure in C programming language. 
+The Bank Management System (BMS) is created using a linked list data structure in the C programming language. BMS is a menu-driven program. Each node of the linked list represents a single customer along with customer information such as account number, first name, last name, available balance, phone number, and password. BMS performs various operations including creating new accounts, withdrawing amounts, depositing amounts, retrieving customer details, and showing the list of all account holders.
